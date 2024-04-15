@@ -1,0 +1,7 @@
+{
+    "todos": [
+      { "id": 1, "text": "Mocked todo 1" },
+      { "id": 2, "text": "Mocked todo 2" }
+    ]
+  }
+  
